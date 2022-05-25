@@ -39,7 +39,7 @@ py==1.8.1
 pyasn1==0.4.8
 pycodestyle==2.5.0
 pycryptodome==3.3.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pyparsing==2.4.6
 pytest==5.4.1
